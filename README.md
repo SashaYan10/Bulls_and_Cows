@@ -1,1 +1,2 @@
+# Bulls and Cows
 The game "Bulls and Cows" is based on the concept that the computer (or another player) chooses four different numbers, and the player must guess the correct sequence of these numbers. After entering these numbers, the program will display the number of cows and bulls. Cows indicate that these numbers are guessed correctly but are not in the right position, while bulls indicate that the number is in the correct position. To win, you need to get four bulls.
